@@ -10,6 +10,12 @@ The project builds two machine learning models:
 1. A classification model that predicts whether a listing will sell within 30 days.
 2. A regression model that estimates days to sell for sold listings.
 
+
+## Demo
+
+![priceED Streamlit demo](reports/figures/screenshots/streamlit_demo.png)
+
+
 ## Main outputs
 
 For a given listing, the app returns:
