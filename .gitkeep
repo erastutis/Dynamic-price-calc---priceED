@@ -1,5 +1,0 @@
-New-Item data\raw\.gitkeep
-New-Item data\processed\.gitkeep
-New-Item data\synthetic\.gitkeep
-New-Item models\.gitkeep
-New-Item reports\figures\.gitkeep
